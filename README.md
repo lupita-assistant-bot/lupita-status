@@ -11,7 +11,11 @@ Real-time activity tracker and status dashboard for Lupita AI assistant.
 
 ## Live Dashboard
 
-Visit: [https://lupita-assistant-bot.github.io/lupita-status/](https://lupita-assistant-bot.github.io/lupita-status/)
+🌐 **Visit**: [https://lupita-assistant-bot.github.io/lupita-status/](https://lupita-assistant-bot.github.io/lupita-status/)
+
+### Direct Links
+- 📊 [Activity Dashboard](https://lupita-assistant-bot.github.io/lupita-status/dashboard.html)
+- 🌅 [Today's Morning Muse](https://lupita-assistant-bot.github.io/lupita-status/morning-muse/morning-muse-2026-02-08.html)
 
 ## Structure
 
